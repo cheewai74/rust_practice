@@ -1,0 +1,8 @@
+VS Studio App
+https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer : rust-analyzer
+https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb  : CodeLLDB
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools: Microsoft c/c++
+https://marketplace.visualstudio.com/items?itemName=rust-lang.rust   
+
+
+https://www.rust-lang.org/tools/install
