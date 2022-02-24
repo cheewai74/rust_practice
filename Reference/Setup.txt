@@ -6,3 +6,4 @@ https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
 
 
 https://www.rust-lang.org/tools/install
+https://visualstudio.microsoft.com/downloads/?q=build+tools

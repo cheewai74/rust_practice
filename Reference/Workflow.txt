@@ -1,0 +1,4 @@
+Create a rust project
+
+Example:
+1. cargo new guessing_game

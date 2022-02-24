@@ -1,0 +1,11 @@
+https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+
+https://cheats.rs/
+
+https://github.com/donbright/rust-lang-cheat-sheet
+
+https://www.koderhq.com/tutorial/rust/
+
+https://www.freecodecamp.org/news/rust-in-replit/
+
+https://medium.com/geekculture/how-to-use-object-oriented-programming-in-rust-6257eac3ef03
