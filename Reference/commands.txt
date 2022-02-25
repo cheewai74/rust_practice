@@ -4,4 +4,5 @@ cargo --version
 rustup update
 rustup doc // documentation
 
-
+cargo run // Compile and Build
+cargo build --release // Build final version for release.
