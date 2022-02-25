@@ -9,3 +9,6 @@ https://www.koderhq.com/tutorial/rust/
 https://www.freecodecamp.org/news/rust-in-replit/
 
 https://medium.com/geekculture/how-to-use-object-oriented-programming-in-rust-6257eac3ef03
+
+Naming Convention:
+https://doc.rust-lang.org/1.0.0/style/style/naming/README.html
