@@ -1,0 +1,7 @@
+rustc --version
+cargo --version
+
+rustup update
+rustup doc // documentation
+
+
