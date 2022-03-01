@@ -1,0 +1,4 @@
+&str    known as a string slice.
+        used to view the data present in the string.
+        cannot be resized.
+&[u8]   point to UTP-8 sequence.
