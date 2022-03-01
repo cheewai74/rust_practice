@@ -2,3 +2,23 @@
         used to view the data present in the string.
         cannot be resized.
 &[u8]   point to UTP-8 sequence.
+
+----------------------------------------------------------------------------------------------------
+||  Method              ||  Description                                                            ||
+----------------------------------------------------------------------------------------------------
+|   new()               |   Creates a new empty String.                                             |
+|   to_String()         |   Converts the given value to a String.                                   |
+|   replace()           |   Replaces all matches of a pattern with another string.                  |
+|   as_str()            |   Extracts a string slice containing the entire string.                   |
+|   push()              |   Appends the given char to the end of this String.                       |
+|   push_str()          |   Appends a given string slice onto the end of this String.               |
+|   len()               |   Returns the length of this String, in bytes.                            |
+|   trim()              |   Returns a string slice with leading and trailing whitespace removed.    |
+|   split_whitespace()  |   Splits a string slice by whitespace and returns an iterator.            |
+|   split()             |   Returns an iterator over substrings of this string slice, separated by  |
+|                       |   a pattern.                                                              |
+|   chars()             |   Returns an iterator over the chars of a string slice.                   |
+----------------------------------------------------------------------------------------------------
+
+
+
