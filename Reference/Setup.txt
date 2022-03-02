@@ -12,3 +12,7 @@ https://visualstudio.microsoft.com/downloads/?q=build+tools
 Linux:
 source $HOME/.cargo/env
 rustc --version
+
+Troubleshooting:
+1. F1
+2. Type: Restart the rust server
