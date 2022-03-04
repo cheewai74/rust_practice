@@ -15,3 +15,12 @@ https://doc.rust-lang.org/1.0.0/style/style/naming/README.html
 
 https://github.com/learn-with-tests/learn-rust-with-tests
 
+Impt: 
+https://crates.io/
+
+E.g: 
+https://crates.io/crates/rand
+
+[dependencies]
+rand = "0.8.4"
+
