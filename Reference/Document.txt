@@ -15,8 +15,11 @@ https://doc.rust-lang.org/1.0.0/style/style/naming/README.html
 
 https://github.com/learn-with-tests/learn-rust-with-tests
 
+https://doc.rust-lang.org/std/
+
 Impt: 
 https://crates.io/
+
 
 E.g: 
 https://crates.io/crates/rand
