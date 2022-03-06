@@ -17,7 +17,7 @@ Impl
 //     unit: String,
 // }
 
-// -- Using pup key to set it as public
+// -- Using pub key to set it as public
 // -- radius, height, and unit is private. If we try to access the attribute in another file
 pub struct Cylinder{
     radius: f32,
