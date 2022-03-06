@@ -61,5 +61,4 @@ fn main(){
     vehicle.add_fuel(1000.0);
     println!("propellant is {}", vehicle.propellant);
 
-
 }
