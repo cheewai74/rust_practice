@@ -1,0 +1,4 @@
+1. A collection of methods.
+2. Data types can implement a trait.
+3. Generics use traits to specify the capabilities of unknown data types.
+4. Similar to interfaces in other programming languages.
